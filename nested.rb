@@ -17,8 +17,7 @@ end
 def alan_kay_is_known_for
 
 	programmer_hash =
- 		{
-        :grace_hopper => {
+ 		{:grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
         },
@@ -71,8 +70,7 @@ end
   
 def changing_alan
 	programmer_hash =
- 		{
-        :grace_hopper => {
+ 		{:grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
         },
@@ -91,8 +89,7 @@ end
 
 def adding_to_dennis
 	programmer_hash =
- 		{
-        :grace_hopper => {
+ 		{ :grace_hopper => {
           :known_for => "COBOL",
           :languages => ["COBOL", "FORTRAN"]
         },
